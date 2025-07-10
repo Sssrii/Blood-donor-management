@@ -4,6 +4,9 @@ This project is a real-life Blood Donor Management System built using C++ for co
 
 It helps users register as donors, search for donors by blood group or location, and find the nearest available donors based on pincode.
 
+![image](https://github.com/user-attachments/assets/54aac693-0771-4a1a-936d-d6ee054c1a19)
+
+
 ---
 
 ## Features
